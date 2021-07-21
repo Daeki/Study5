@@ -5,7 +5,7 @@ public class Ex2Main {
 	public static void main(String[] args) {
 		//Member member = new Member();
 		
-		//member.id ="";
+		//member.id ="";ff
 		
 		//default
 		//member.age=20;
